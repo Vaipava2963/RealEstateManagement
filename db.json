@@ -1,0 +1,20 @@
+{
+  "properties": [
+    {
+      "id": "46f0",
+      "propertyid": "P002",
+      "owner": "Kavya Sri",
+      "propertytype": "House",
+      "RentalStatus": "Available",
+      "location": "Chennai"
+    },
+    {
+      "id": "2cf4",
+      "propertyid": "P001",
+      "owner": "Vaipava",
+      "propertytype": "Aparttment",
+      "RentalStatus": "Available",
+      "location": "Chennai"
+    }
+  ]
+}
